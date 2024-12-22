@@ -140,3 +140,5 @@ Video.js is a registered trademark of [Brightcove, Inc][bc].
 [vjs]: https://videojs.com
 
 [coc]: https://github.com/videojs/admin/blob/main/CODE_OF_CONDUCT.md
+
+Thats all folks
